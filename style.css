@@ -210,6 +210,10 @@ main img {
 
 
 @media (max-width:750px) {
+  body{
+    padding: 0;
+  }
+  
   main {
     border-radius: 0;
     padding: 0;
